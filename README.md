@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name: Annapureddy kavya
 
-### Register Number:
+### Register Number:212225240011
 
 ```python
 class Model(nn.Module):
@@ -126,8 +126,7 @@ print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 
 ### Dataset Information
 Include screenshot of the generated data
-<img width="820" height="270" alt="image" src="https://github.com/user-attachments/assets/21575a5a-5005-42ca-9514-2cf27b3a943e" />
-
+<img width="848" height="272" alt="image" src="https://github.com/user-attachments/assets/5ca4e2a2-1876-458e-8bd0-9b51c1cd4c57" />
 
 ### OUTPUT
 Training Loss Vs Iteration Plot
@@ -142,7 +141,9 @@ Include your plot here
 
 ### New Sample Data Prediction
 Include your sample input and output here
-<img width="772" height="285" alt="image" src="https://github.com/user-attachments/assets/3d957f2a-e922-417e-8181-4b1ceb32168c" />
+
+<img width="772" height="288" alt="image" src="https://github.com/user-attachments/assets/918c01e1-da1f-4ce7-bef8-4b174ffca47b" />
+
 
 
 ## RESULT
